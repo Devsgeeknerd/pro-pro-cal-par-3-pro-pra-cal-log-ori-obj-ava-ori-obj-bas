@@ -25,4 +25,3 @@
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/ferramentas-basicas-orientacao?style=social "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/ferramentas-basicas-orientacao?style=social "Licença do Repositório")
-
